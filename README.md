@@ -1,4 +1,3 @@
-# web-crawler-swim-apps
 # Swimming App User Opinion Crawler Project
 
 This project aims to understand user opinions, needs, and feedback regarding swimming apps in the market by crawling user opinions. We will utilize APIs from various social media platforms and app stores to collect user ratings, reviews, and interaction data related to swimming apps.
