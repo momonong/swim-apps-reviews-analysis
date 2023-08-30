@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "swim"
+version = "0.1.0"
+description = ""
+authors = ["momonong <morrischen2.9@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.11.2"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
+pandas = "^2.0.3"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
