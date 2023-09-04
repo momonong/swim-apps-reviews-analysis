@@ -4,9 +4,7 @@ This project aims to understand user opinions, needs, and feedback regarding swi
 
 ## Features
 
-- Crawl app ratings and reviews from Google Play Store and Apple App Store.
-- Gather user opinions and interactions from Facebook and Twitter.
-- Analyze posts and feedback related to swimming apps on Instagram.
+- Crawl app ratings and reviews from Apple App Store.
 - Provide market analysis, user feedback analysis, and sentiment analysis.
 
 ## How to Use
