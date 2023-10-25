@@ -1,0 +1,6 @@
+Statistical Analysis: 請進行基本的統計分析，包括評價的數量、平均評分、評分的標準差和評分範圍等。
+Data Visualization: 希望看到評分分佈、極性分佈、主觀性分佈等的視覺化結果。
+Additional Visualizations: 請提供更多的資料視覺化。
+Explain Figures: 視覺化的圖片下面希望有該張圖片的說明。
+Highlight Conclusions: 請對分析結果進行適當的文字說明，並將特點highlight出來。
+整理成一個檔案: 將所有分析結果和視覺化整理到一個檔案當中。
