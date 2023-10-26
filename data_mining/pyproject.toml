@@ -19,6 +19,7 @@ matplotlib = "^3.7.2"
 openpyxl = "^3.1.2"
 gensim = "^4.3.2"
 textblob = "^0.17.1"
+seaborn = "^0.13.0"
 
 
 [tool.poetry.group.dev.dependencies]
