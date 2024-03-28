@@ -3606,4 +3606,4 @@ tabulate = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "2c20bb64b260384073b06d8cb1b447263ce2fa669aafb734b3e0ca5b86f3fea9"
+content-hash = "4d25ea62fb1b75a85da873087cc1c74aa46b8c7b20b89a79a40ef71065be2e66"
