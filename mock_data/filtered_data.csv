@@ -1,0 +1,49 @@
+Location,Year,Distance (in meters),Stroke,Relay?,Gender,Team,Athlete,Results,Rank
+Tokyo,2020,50m,Freestyle,0,Men,USA,Caeleb Dressel,21.07,1
+Tokyo,2020,50m,Freestyle,0,Men,FRA,Florent Manaudou,21.55,2
+Tokyo,2020,50m,Freestyle,0,Men,BRA,Bruno Fratus,21.57,3
+Tokyo,2020,50m,Freestyle,0,Men,USA,Michael Andrew,21.60,4
+Tokyo,2020,50m,Freestyle,0,Men,GBR,Ben Proud,21.72,4
+Tokyo,2020,50m,Freestyle,0,Men,GRE,Kristian Gkolomeev,21.72,4
+Tokyo,2020,50m,Freestyle,0,Men,ITA,Lorenzo Zazzeri,21.78,4
+Tokyo,2020,50m,Freestyle,0,Men,NED,Thom De Boer,21.79,4
+Tokyo,2020,50m,Freestyle,0,Women,AUS,Emma Mckeon,23.81,1
+Tokyo,2020,50m,Freestyle,0,Women,SWE,Sarah Sjoestroem,24.07,2
+Tokyo,2020,50m,Freestyle,0,Women,DEN,Pernille Blume,24.21,3
+Tokyo,2020,50m,Freestyle,0,Women,NED,Ranomi Kromowidjojo,24.30,4
+Tokyo,2020,50m,Freestyle,0,Women,POL,Katarzyna Wasick,24.32,4
+Tokyo,2020,50m,Freestyle,0,Women,CHN,Qingfeng Wu,24.32,4
+Tokyo,2020,50m,Freestyle,0,Women,AUS,Cate Campbell,24.36,4
+Tokyo,2020,50m,Freestyle,0,Women,USA,Abbey Weitzeil,24.41,4
+Rio,2016,50m,Freestyle,0,Men,USA,Anthony Ervin,21.400,1
+Rio,2016,50m,Freestyle,0,Men,FRA,Florent Manaudou,21.410,2
+Rio,2016,50m,Freestyle,0,Men,USA,Nathan Adrian,21.490,3
+Rio,2016,50m,Freestyle,0,Men,GBR,Ben Proud,21.680,4
+Rio,2016,50m,Freestyle,0,Men,UKR,Andriy Hovorov,21.740,4
+Rio,2016,50m,Freestyle,0,Men,BRA,Bruno Fratus,21.790,4
+Rio,2016,50m,Freestyle,0,Men,RSA,Bradley Edward Tandy,21.790,4
+Rio,2016,50m,Freestyle,0,Men,LTU,Simonas Bilis,22.080,4
+Rio,2016,50m,Freestyle,0,Women,DEN,Pernille Blume,24.070,1
+Rio,2016,50m,Freestyle,0,Women,USA,Simone Manuel,24.090,2
+Rio,2016,50m,Freestyle,0,Women,BLR,Aliaksandra Herasimenia,24.110,3
+Rio,2016,50m,Freestyle,0,Women,GBR,Francesca Halsall,24.130,4
+Rio,2016,50m,Freestyle,0,Women,AUS,Cate Campbell,24.150,4
+Rio,2016,50m,Freestyle,0,Women,NED,Ranomi Kromowidjojo,24.190,4
+Rio,2016,50m,Freestyle,0,Women,AUS,Bronte Campbell,24.420,4
+Rio,2016,50m,Freestyle,0,Women,BRA,Etiene Medeiros,24.690,4
+London,2012,50m,Freestyle,0,Men,FRA,Florent Manaudou,21.340,1
+London,2012,50m,Freestyle,0,Men,USA,Cullen Jones,21.540,2
+London,2012,50m,Freestyle,0,Men,BRA,Cesar Cielo Filho,21.590,3
+London,2012,50m,Freestyle,0,Men,BRA,Bruno Fratus,21.610,4
+London,2012,50m,Freestyle,0,Men,USA,Anthony Ervin,21.780,4
+London,2012,50m,Freestyle,0,Men,RSA,Roland Schoeman,21.800,4
+London,2012,50m,Freestyle,0,Men,TTO,George Bovell,21.820,4
+London,2012,50m,Freestyle,0,Men,AUS,Eamon Sullivan,21.980,4
+London,2012,50m,Freestyle,0,Women,NED,Ranomi Kromowidjojo,24.050,1
+London,2012,50m,Freestyle,0,Women,BLR,Aliaksandra Herasimenia,24.280,2
+London,2012,50m,Freestyle,0,Women,NED,Marleen Veldhuis,24.390,3
+London,2012,50m,Freestyle,0,Women,GER,Britta Steffen,24.460,4
+London,2012,50m,Freestyle,0,Women,GBR,Francesca Halsall,24.470,4
+London,2012,50m,Freestyle,0,Women,SWE,Therese Alshammar,24.610,4
+London,2012,50m,Freestyle,0,Women,USA,Jessica Hardy,24.620,4
+London,2012,50m,Freestyle,0,Women,BAH,Arianna Vanderpool-Wallace,24.690,4
