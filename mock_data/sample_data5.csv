@@ -1,19 +1,12 @@
-,訓練距離(km/週),賽事,日期,賽事等級,項目,成績,心率,睡眠問卷分數,睡眠等級
-0,8.73,Swim0,2023-01-31,全國級,Women 200m Breaststroke,2:38.42,158,23,1
-1,8.31,Swim1,2023-02-28,縣市級,Women 50m Freestyle,27.165,171,52,3
-2,8.85,Swim2,2023-03-31,國際級,Women 200m Breaststroke,2:39.94,148,35,2
-3,9.46,Swim3,2023-04-30,全國級,Women 50m Freestyle,27.2,134,39,2
-4,8.23,Swim4,2023-05-31,縣市級,Women 100m Breaststroke,1:12.63,162,23,1
-5,8.23,Swim5,2023-06-30,全國級,Women 200m Breaststroke,2:37.35,127,2,1
-6,9.49,Swim6,2023-07-31,國際級,Women 200m Breaststroke,2:36.86,180,21,1
-7,8.93,Swim7,2023-08-31,全國級,Women 100m Breaststroke,1:11.66,140,52,3
-8,8.06,Swim8,2023-09-30,縣市級,Women 50m Breaststroke,33.18,158,1,1
-9,8.79,Swim9,2023-10-31,縣市級,Women 100m Breaststroke,1:11.17,177,23,1
-10,8.31,World Aquatics Championships - Doha 2024,2024-02-17,國際級,Women 50m Breaststroke,32.10,130,15,1
-11,8.37,World Aquatics Championships - Doha 2024,2024-02-12,國際級,Women 100m Breaststroke,1:10.77,126,43,3
-12,8.74,Chinese Taipei Ranking Match 2023,2023-12-09,國際級,Women 100m Breaststroke,1:10.80,171,8,1
-13,8.28,Chinese Taipei Ranking Match 2023,2023-12-09,國際級,Women 50m Breaststroke,32.17,164,37,2
-14,8.35,National Games 2023,2023-10-21,國際級,Women 200m Breaststroke,2:35.18,162,24,1
-15,8.38,National Games 2023,2023-10-21,國際級,Women 100m Breaststroke,1:08.90,177,18,1
-16,8.78,National Games 2023,2023-10-21,國際級,Women 50m Freestyle,26.46,179,12,1
-17,8.01,National Games 2023,2023-10-21,國際級,Women 50m Breaststroke,31.68,177,9,1
+訓練距離(km/週),賽事,日期,賽事等級,項目,成績,心率,睡眠問卷分數,睡眠等級
+8.23,台中市級競賽,2023-05-31,縣市級,Women 100m Breaststroke,1:12.63,162,23,1
+8.06,台北市級競賽,2023-09-30,縣市級,Women 50m Breaststroke,33.18,158,1,1
+8.79,台南市級競賽,2023-10-31,縣市級,Women 100m Breaststroke,1:11.17,177,23,1
+8.31,World Aquatics Championships - Doha 2024,2024-02-17,國際級,Women 50m Breaststroke,32.10,130,47,3
+8.37,World Aquatics Championships - Doha 2024,2024-02-12,國際級,Women 100m Breaststroke,1:10.77,126,43,3
+8.74,Chinese Taipei Ranking Match 2023,2023-12-09,全國級,Women 100m Breaststroke,1:10.80,171,8,1
+8.28,Chinese Taipei Ranking Match 2023,2023-12-09,全國級,Women 50m Breaststroke,32.17,164,37,2
+8.35,National Games 2023,2023-10-21,全國級,Women 200m Breaststroke,2:35.18,162,24,1
+8.38,National Games 2023,2023-10-21,全國級,Women 100m Breaststroke,1:08.90,177,18,1
+8.78,National Games 2023,2023-10-21,全國級,Women 50m Freestyle,26.46,179,12,1
+8.01,National Games 2023,2023-10-21,全國級,Women 50m Breaststroke,31.68,177,9,1
