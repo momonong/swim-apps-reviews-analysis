@@ -3,7 +3,7 @@ import pandas as pd
 def xlsx_to_csv(xlsx_file_path, csv_file_path):
     """
     Converts an Excel file (.xlsx) to a CSV file (.csv), renaming columns
-    to match the swim_competition_results table schema.
+    to match the swim_competition_results table schema and removing the header row.
 
     Args:
         xlsx_file_path (str): The path to the Excel file.
@@ -28,8 +28,8 @@ def xlsx_to_csv(xlsx_file_path, csv_file_path):
         }
         df = df.rename(columns=column_mapping)
 
-        # Write the DataFrame to a CSV file
-        df.to_csv(csv_file_path, index=False) 
+        # Write the DataFrame to a CSV file without the header
+        df.to_csv(csv_file_path, index=False, header=False) 
 
         print(f"Conversion successful! CSV file saved at: {csv_file_path}")
 
