@@ -24,7 +24,8 @@ def xlsx_to_csv(xlsx_file_path, csv_file_path):
             '性別': 'gender',
             '比賽項目': 'event',
             '比賽成績': 'performance',
-            '狀態': 'status'
+            '狀態': 'status',
+            '賽別': 'competition_category'
         }
         df = df.rename(columns=column_mapping)
 
@@ -39,6 +40,6 @@ def xlsx_to_csv(xlsx_file_path, csv_file_path):
         print(f"An error occurred during conversion: {e}")
 
 if __name__ == "__main__":
-    xlsx_file_path = '成績資料匯出.xlsx'
-    csv_file_path = 'grades.csv'
+    xlsx_file_path = '成績資料匯出2024.xlsx'
+    csv_file_path = 'grades_2024.csv'
     xlsx_to_csv(xlsx_file_path, csv_file_path)
