@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def xlsx_to_csv(xlsx_file_path, csv_file_path):
     """
     Converts an Excel file (.xlsx) to a CSV file (.csv), renaming columns
@@ -17,20 +18,20 @@ def xlsx_to_csv(xlsx_file_path, csv_file_path):
         # Rename columns to match the database table
         column_mapping = {
             # Map existing column names to the desired names
-            '賽會名稱': 'competition_name',
-            '項次': 'item_number',
-            '單位名稱': 'unit_name',
-            '姓名': 'name',
-            '性別': 'gender',
-            '比賽項目': 'event',
-            '比賽成績': 'performance',
-            '狀態': 'status',
-            '賽別': 'competition_category'
+            "賽會名稱": "competition_name",
+            "項次": "item_number",
+            "單位名稱": "unit_name",
+            "姓名": "name",
+            "性別": "gender",
+            "比賽項目": "event",
+            "比賽成績": "performance",
+            "狀態": "status",
+            "賽別": "competition_category",
         }
         df = df.rename(columns=column_mapping)
 
         # Write the DataFrame to a CSV file without the header
-        df.to_csv(csv_file_path, index=False, header=False) 
+        df.to_csv(csv_file_path, index=False, header=False)
 
         print(f"Conversion successful! CSV file saved at: {csv_file_path}")
 
@@ -39,7 +40,8 @@ def xlsx_to_csv(xlsx_file_path, csv_file_path):
     except Exception as e:
         print(f"An error occurred during conversion: {e}")
 
+
 if __name__ == "__main__":
-    xlsx_file_path = '成績資料匯出2024.xlsx'
-    csv_file_path = 'grades_2024.csv'
+    xlsx_file_path = "成績資料匯出2022.xlsx"
+    csv_file_path = "grades_2022.csv"
     xlsx_to_csv(xlsx_file_path, csv_file_path)
